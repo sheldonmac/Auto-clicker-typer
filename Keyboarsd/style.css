@@ -1,0 +1,21 @@
+.option{
+    display: inline-block;
+    background-color: yellowgreen;
+    border-radius: 1rem;
+    width: 75px;
+    height: 75px;
+    text-align: center;
+    font-size: 0.75rem;
+    padding: 10px;
+    
+    
+}
+.acbar{
+    padding: 50px;
+    
+    max-width: 2rem;
+    
+}
+.option span{
+    
+}
